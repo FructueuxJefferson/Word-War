@@ -1,0 +1,5 @@
+$ : Opponent looses lostOnFail;
+% : Opponent looses lostOnRubish;
+
+? : Opponent looses lostOnFail and player gains lostOnFail;
+! : Opponent looses lostOnRubish and player gains lostOnRubish;
